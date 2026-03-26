@@ -20,4 +20,9 @@ setting up ejs for ejs pages
 setting up piblic  static file
   
 -------------------------------------
+```
+ejs : ejs is used when you want to render the website with the backend
+npm i ejs
+setup ejs as middleware as a view engine
+```
 
