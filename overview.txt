@@ -1,0 +1,23 @@
+1. Initialize a project with npm
+   npm init -y
+
+2. Express install
+   npm i express
+
+----------------------------------------------------------------------
+
+dynamic routing
+
+how to get data coming from frontend at backend route
+-----------------------------------------
+setting up parser for from
+
+
+-----------------------------------------------
+
+setting up ejs for ejs pages
+
+setting up piblic  static file
+  
+-------------------------------------
+
